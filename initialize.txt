@@ -1,0 +1,9 @@
+git and github 
+
+alternatives: AWS,bitbucket,gitlab
+
+git add .>>> add file to the staging alternatives
+
+git commit -m "message" >>> to commit the changes in the tracked file
+
+git push origin main >>> pushing file into the main branch in the github repository
